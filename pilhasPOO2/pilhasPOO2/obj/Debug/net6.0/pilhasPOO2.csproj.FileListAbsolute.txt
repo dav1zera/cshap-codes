@@ -1,0 +1,15 @@
+C:\Users\davia\source\repos\pilhasPOO2\pilhasPOO2\bin\Debug\net6.0\pilhasPOO2.exe
+C:\Users\davia\source\repos\pilhasPOO2\pilhasPOO2\bin\Debug\net6.0\pilhasPOO2.deps.json
+C:\Users\davia\source\repos\pilhasPOO2\pilhasPOO2\bin\Debug\net6.0\pilhasPOO2.runtimeconfig.json
+C:\Users\davia\source\repos\pilhasPOO2\pilhasPOO2\bin\Debug\net6.0\pilhasPOO2.dll
+C:\Users\davia\source\repos\pilhasPOO2\pilhasPOO2\bin\Debug\net6.0\ref\pilhasPOO2.dll
+C:\Users\davia\source\repos\pilhasPOO2\pilhasPOO2\bin\Debug\net6.0\pilhasPOO2.pdb
+C:\Users\davia\source\repos\pilhasPOO2\pilhasPOO2\obj\Debug\net6.0\pilhasPOO2.csproj.AssemblyReference.cache
+C:\Users\davia\source\repos\pilhasPOO2\pilhasPOO2\obj\Debug\net6.0\pilhasPOO2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\davia\source\repos\pilhasPOO2\pilhasPOO2\obj\Debug\net6.0\pilhasPOO2.AssemblyInfoInputs.cache
+C:\Users\davia\source\repos\pilhasPOO2\pilhasPOO2\obj\Debug\net6.0\pilhasPOO2.AssemblyInfo.cs
+C:\Users\davia\source\repos\pilhasPOO2\pilhasPOO2\obj\Debug\net6.0\pilhasPOO2.csproj.CoreCompileInputs.cache
+C:\Users\davia\source\repos\pilhasPOO2\pilhasPOO2\obj\Debug\net6.0\pilhasPOO2.dll
+C:\Users\davia\source\repos\pilhasPOO2\pilhasPOO2\obj\Debug\net6.0\ref\pilhasPOO2.dll
+C:\Users\davia\source\repos\pilhasPOO2\pilhasPOO2\obj\Debug\net6.0\pilhasPOO2.pdb
+C:\Users\davia\source\repos\pilhasPOO2\pilhasPOO2\obj\Debug\net6.0\pilhasPOO2.genruntimeconfig.cache

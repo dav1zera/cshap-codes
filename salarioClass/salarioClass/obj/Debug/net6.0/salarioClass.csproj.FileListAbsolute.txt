@@ -1,0 +1,15 @@
+C:\Users\davia\source\repos\salarioClass\salarioClass\bin\Debug\net6.0\salarioClass.exe
+C:\Users\davia\source\repos\salarioClass\salarioClass\bin\Debug\net6.0\salarioClass.deps.json
+C:\Users\davia\source\repos\salarioClass\salarioClass\bin\Debug\net6.0\salarioClass.runtimeconfig.json
+C:\Users\davia\source\repos\salarioClass\salarioClass\bin\Debug\net6.0\salarioClass.dll
+C:\Users\davia\source\repos\salarioClass\salarioClass\bin\Debug\net6.0\ref\salarioClass.dll
+C:\Users\davia\source\repos\salarioClass\salarioClass\bin\Debug\net6.0\salarioClass.pdb
+C:\Users\davia\source\repos\salarioClass\salarioClass\obj\Debug\net6.0\salarioClass.csproj.AssemblyReference.cache
+C:\Users\davia\source\repos\salarioClass\salarioClass\obj\Debug\net6.0\salarioClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\davia\source\repos\salarioClass\salarioClass\obj\Debug\net6.0\salarioClass.AssemblyInfoInputs.cache
+C:\Users\davia\source\repos\salarioClass\salarioClass\obj\Debug\net6.0\salarioClass.AssemblyInfo.cs
+C:\Users\davia\source\repos\salarioClass\salarioClass\obj\Debug\net6.0\salarioClass.csproj.CoreCompileInputs.cache
+C:\Users\davia\source\repos\salarioClass\salarioClass\obj\Debug\net6.0\salarioClass.dll
+C:\Users\davia\source\repos\salarioClass\salarioClass\obj\Debug\net6.0\ref\salarioClass.dll
+C:\Users\davia\source\repos\salarioClass\salarioClass\obj\Debug\net6.0\salarioClass.pdb
+C:\Users\davia\source\repos\salarioClass\salarioClass\obj\Debug\net6.0\salarioClass.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\davia\source\repos\calcularTrian\calcularTrian\bin\Debug\net6.0\calcularTrian.exe
+C:\Users\davia\source\repos\calcularTrian\calcularTrian\bin\Debug\net6.0\calcularTrian.deps.json
+C:\Users\davia\source\repos\calcularTrian\calcularTrian\bin\Debug\net6.0\calcularTrian.runtimeconfig.json
+C:\Users\davia\source\repos\calcularTrian\calcularTrian\bin\Debug\net6.0\calcularTrian.dll
+C:\Users\davia\source\repos\calcularTrian\calcularTrian\bin\Debug\net6.0\ref\calcularTrian.dll
+C:\Users\davia\source\repos\calcularTrian\calcularTrian\bin\Debug\net6.0\calcularTrian.pdb
+C:\Users\davia\source\repos\calcularTrian\calcularTrian\obj\Debug\net6.0\calcularTrian.csproj.AssemblyReference.cache
+C:\Users\davia\source\repos\calcularTrian\calcularTrian\obj\Debug\net6.0\calcularTrian.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\davia\source\repos\calcularTrian\calcularTrian\obj\Debug\net6.0\calcularTrian.AssemblyInfoInputs.cache
+C:\Users\davia\source\repos\calcularTrian\calcularTrian\obj\Debug\net6.0\calcularTrian.AssemblyInfo.cs
+C:\Users\davia\source\repos\calcularTrian\calcularTrian\obj\Debug\net6.0\calcularTrian.csproj.CoreCompileInputs.cache
+C:\Users\davia\source\repos\calcularTrian\calcularTrian\obj\Debug\net6.0\calcularTrian.dll
+C:\Users\davia\source\repos\calcularTrian\calcularTrian\obj\Debug\net6.0\ref\calcularTrian.dll
+C:\Users\davia\source\repos\calcularTrian\calcularTrian\obj\Debug\net6.0\calcularTrian.pdb
+C:\Users\davia\source\repos\calcularTrian\calcularTrian\obj\Debug\net6.0\calcularTrian.genruntimeconfig.cache

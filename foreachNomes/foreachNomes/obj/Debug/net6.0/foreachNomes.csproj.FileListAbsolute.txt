@@ -1,0 +1,15 @@
+C:\Users\davia\source\repos\foreachNomes\foreachNomes\bin\Debug\net6.0\foreachNomes.exe
+C:\Users\davia\source\repos\foreachNomes\foreachNomes\bin\Debug\net6.0\foreachNomes.deps.json
+C:\Users\davia\source\repos\foreachNomes\foreachNomes\bin\Debug\net6.0\foreachNomes.runtimeconfig.json
+C:\Users\davia\source\repos\foreachNomes\foreachNomes\bin\Debug\net6.0\foreachNomes.dll
+C:\Users\davia\source\repos\foreachNomes\foreachNomes\bin\Debug\net6.0\ref\foreachNomes.dll
+C:\Users\davia\source\repos\foreachNomes\foreachNomes\bin\Debug\net6.0\foreachNomes.pdb
+C:\Users\davia\source\repos\foreachNomes\foreachNomes\obj\Debug\net6.0\foreachNomes.csproj.AssemblyReference.cache
+C:\Users\davia\source\repos\foreachNomes\foreachNomes\obj\Debug\net6.0\foreachNomes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\davia\source\repos\foreachNomes\foreachNomes\obj\Debug\net6.0\foreachNomes.AssemblyInfoInputs.cache
+C:\Users\davia\source\repos\foreachNomes\foreachNomes\obj\Debug\net6.0\foreachNomes.AssemblyInfo.cs
+C:\Users\davia\source\repos\foreachNomes\foreachNomes\obj\Debug\net6.0\foreachNomes.csproj.CoreCompileInputs.cache
+C:\Users\davia\source\repos\foreachNomes\foreachNomes\obj\Debug\net6.0\foreachNomes.dll
+C:\Users\davia\source\repos\foreachNomes\foreachNomes\obj\Debug\net6.0\ref\foreachNomes.dll
+C:\Users\davia\source\repos\foreachNomes\foreachNomes\obj\Debug\net6.0\foreachNomes.pdb
+C:\Users\davia\source\repos\foreachNomes\foreachNomes\obj\Debug\net6.0\foreachNomes.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\davia\source\repos\testeAPP\testeAPP\bin\Debug\net5.0\testeAPP.exe
+C:\Users\davia\source\repos\testeAPP\testeAPP\bin\Debug\net5.0\testeAPP.deps.json
+C:\Users\davia\source\repos\testeAPP\testeAPP\bin\Debug\net5.0\testeAPP.runtimeconfig.json
+C:\Users\davia\source\repos\testeAPP\testeAPP\bin\Debug\net5.0\testeAPP.runtimeconfig.dev.json
+C:\Users\davia\source\repos\testeAPP\testeAPP\bin\Debug\net5.0\testeAPP.dll
+C:\Users\davia\source\repos\testeAPP\testeAPP\bin\Debug\net5.0\ref\testeAPP.dll
+C:\Users\davia\source\repos\testeAPP\testeAPP\bin\Debug\net5.0\testeAPP.pdb
+C:\Users\davia\source\repos\testeAPP\testeAPP\obj\Debug\net5.0\testeAPP.csproj.AssemblyReference.cache
+C:\Users\davia\source\repos\testeAPP\testeAPP\obj\Debug\net5.0\testeAPP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\davia\source\repos\testeAPP\testeAPP\obj\Debug\net5.0\testeAPP.AssemblyInfoInputs.cache
+C:\Users\davia\source\repos\testeAPP\testeAPP\obj\Debug\net5.0\testeAPP.AssemblyInfo.cs
+C:\Users\davia\source\repos\testeAPP\testeAPP\obj\Debug\net5.0\testeAPP.csproj.CoreCompileInputs.cache
+C:\Users\davia\source\repos\testeAPP\testeAPP\obj\Debug\net5.0\testeAPP.dll
+C:\Users\davia\source\repos\testeAPP\testeAPP\obj\Debug\net5.0\ref\testeAPP.dll
+C:\Users\davia\source\repos\testeAPP\testeAPP\obj\Debug\net5.0\testeAPP.pdb
+C:\Users\davia\source\repos\testeAPP\testeAPP\obj\Debug\net5.0\testeAPP.genruntimeconfig.cache

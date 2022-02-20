@@ -1,0 +1,15 @@
+C:\Users\davia\source\repos\pooMensagem\pooMensagem\bin\Debug\net6.0\pooMensagem.exe
+C:\Users\davia\source\repos\pooMensagem\pooMensagem\bin\Debug\net6.0\pooMensagem.deps.json
+C:\Users\davia\source\repos\pooMensagem\pooMensagem\bin\Debug\net6.0\pooMensagem.runtimeconfig.json
+C:\Users\davia\source\repos\pooMensagem\pooMensagem\bin\Debug\net6.0\pooMensagem.dll
+C:\Users\davia\source\repos\pooMensagem\pooMensagem\bin\Debug\net6.0\ref\pooMensagem.dll
+C:\Users\davia\source\repos\pooMensagem\pooMensagem\bin\Debug\net6.0\pooMensagem.pdb
+C:\Users\davia\source\repos\pooMensagem\pooMensagem\obj\Debug\net6.0\pooMensagem.csproj.AssemblyReference.cache
+C:\Users\davia\source\repos\pooMensagem\pooMensagem\obj\Debug\net6.0\pooMensagem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\davia\source\repos\pooMensagem\pooMensagem\obj\Debug\net6.0\pooMensagem.AssemblyInfoInputs.cache
+C:\Users\davia\source\repos\pooMensagem\pooMensagem\obj\Debug\net6.0\pooMensagem.AssemblyInfo.cs
+C:\Users\davia\source\repos\pooMensagem\pooMensagem\obj\Debug\net6.0\pooMensagem.csproj.CoreCompileInputs.cache
+C:\Users\davia\source\repos\pooMensagem\pooMensagem\obj\Debug\net6.0\pooMensagem.dll
+C:\Users\davia\source\repos\pooMensagem\pooMensagem\obj\Debug\net6.0\ref\pooMensagem.dll
+C:\Users\davia\source\repos\pooMensagem\pooMensagem\obj\Debug\net6.0\pooMensagem.pdb
+C:\Users\davia\source\repos\pooMensagem\pooMensagem\obj\Debug\net6.0\pooMensagem.genruntimeconfig.cache

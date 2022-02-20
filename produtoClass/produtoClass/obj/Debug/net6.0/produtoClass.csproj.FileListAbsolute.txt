@@ -1,0 +1,16 @@
+C:\Users\davia\source\repos\produtoClass\produtoClass\bin\Debug\net6.0\produtoClass.exe
+C:\Users\davia\source\repos\produtoClass\produtoClass\bin\Debug\net6.0\produtoClass.deps.json
+C:\Users\davia\source\repos\produtoClass\produtoClass\bin\Debug\net6.0\produtoClass.runtimeconfig.json
+C:\Users\davia\source\repos\produtoClass\produtoClass\bin\Debug\net6.0\produtoClass.dll
+C:\Users\davia\source\repos\produtoClass\produtoClass\bin\Debug\net6.0\produtoClass.pdb
+C:\Users\davia\source\repos\produtoClass\produtoClass\obj\Debug\net6.0\produtoClass.csproj.AssemblyReference.cache
+C:\Users\davia\source\repos\produtoClass\produtoClass\obj\Debug\net6.0\produtoClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\davia\source\repos\produtoClass\produtoClass\obj\Debug\net6.0\produtoClass.AssemblyInfoInputs.cache
+C:\Users\davia\source\repos\produtoClass\produtoClass\obj\Debug\net6.0\produtoClass.AssemblyInfo.cs
+C:\Users\davia\source\repos\produtoClass\produtoClass\obj\Debug\net6.0\produtoClass.csproj.CoreCompileInputs.cache
+C:\Users\davia\source\repos\produtoClass\produtoClass\obj\Debug\net6.0\produtoClass.dll
+C:\Users\davia\source\repos\produtoClass\produtoClass\obj\Debug\net6.0\ref\produtoClass.dll
+C:\Users\davia\source\repos\produtoClass\produtoClass\obj\Debug\net6.0\produtoClass.pdb
+C:\Users\davia\source\repos\produtoClass\produtoClass\obj\Debug\net6.0\produtoClass.genruntimeconfig.cache
+C:\Users\davia\source\repos\produtoClass\produtoClass\obj\Debug\net6.0\produtoClass.ImplicitNamespaceImports.cs
+C:\Users\davia\source\repos\produtoClass\produtoClass\obj\Debug\net6.0\refint\produtoClass.dll

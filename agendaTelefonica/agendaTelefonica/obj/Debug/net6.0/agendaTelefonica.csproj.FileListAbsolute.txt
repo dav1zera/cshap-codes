@@ -1,0 +1,15 @@
+C:\Users\davia\source\repos\agendaTelefonica\agendaTelefonica\bin\Debug\net6.0\agendaTelefonica.exe
+C:\Users\davia\source\repos\agendaTelefonica\agendaTelefonica\bin\Debug\net6.0\agendaTelefonica.deps.json
+C:\Users\davia\source\repos\agendaTelefonica\agendaTelefonica\bin\Debug\net6.0\agendaTelefonica.runtimeconfig.json
+C:\Users\davia\source\repos\agendaTelefonica\agendaTelefonica\bin\Debug\net6.0\agendaTelefonica.dll
+C:\Users\davia\source\repos\agendaTelefonica\agendaTelefonica\bin\Debug\net6.0\ref\agendaTelefonica.dll
+C:\Users\davia\source\repos\agendaTelefonica\agendaTelefonica\bin\Debug\net6.0\agendaTelefonica.pdb
+C:\Users\davia\source\repos\agendaTelefonica\agendaTelefonica\obj\Debug\net6.0\agendaTelefonica.csproj.AssemblyReference.cache
+C:\Users\davia\source\repos\agendaTelefonica\agendaTelefonica\obj\Debug\net6.0\agendaTelefonica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\davia\source\repos\agendaTelefonica\agendaTelefonica\obj\Debug\net6.0\agendaTelefonica.AssemblyInfoInputs.cache
+C:\Users\davia\source\repos\agendaTelefonica\agendaTelefonica\obj\Debug\net6.0\agendaTelefonica.AssemblyInfo.cs
+C:\Users\davia\source\repos\agendaTelefonica\agendaTelefonica\obj\Debug\net6.0\agendaTelefonica.csproj.CoreCompileInputs.cache
+C:\Users\davia\source\repos\agendaTelefonica\agendaTelefonica\obj\Debug\net6.0\agendaTelefonica.dll
+C:\Users\davia\source\repos\agendaTelefonica\agendaTelefonica\obj\Debug\net6.0\ref\agendaTelefonica.dll
+C:\Users\davia\source\repos\agendaTelefonica\agendaTelefonica\obj\Debug\net6.0\agendaTelefonica.pdb
+C:\Users\davia\source\repos\agendaTelefonica\agendaTelefonica\obj\Debug\net6.0\agendaTelefonica.genruntimeconfig.cache

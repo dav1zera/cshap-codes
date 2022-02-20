@@ -1,0 +1,15 @@
+C:\Users\davia\source\repos\calculadoracs\calculadoracs\bin\Debug\net6.0\calculadoracs.exe
+C:\Users\davia\source\repos\calculadoracs\calculadoracs\bin\Debug\net6.0\calculadoracs.deps.json
+C:\Users\davia\source\repos\calculadoracs\calculadoracs\bin\Debug\net6.0\calculadoracs.runtimeconfig.json
+C:\Users\davia\source\repos\calculadoracs\calculadoracs\bin\Debug\net6.0\calculadoracs.dll
+C:\Users\davia\source\repos\calculadoracs\calculadoracs\bin\Debug\net6.0\ref\calculadoracs.dll
+C:\Users\davia\source\repos\calculadoracs\calculadoracs\bin\Debug\net6.0\calculadoracs.pdb
+C:\Users\davia\source\repos\calculadoracs\calculadoracs\obj\Debug\net6.0\calculadoracs.csproj.AssemblyReference.cache
+C:\Users\davia\source\repos\calculadoracs\calculadoracs\obj\Debug\net6.0\calculadoracs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\davia\source\repos\calculadoracs\calculadoracs\obj\Debug\net6.0\calculadoracs.AssemblyInfoInputs.cache
+C:\Users\davia\source\repos\calculadoracs\calculadoracs\obj\Debug\net6.0\calculadoracs.AssemblyInfo.cs
+C:\Users\davia\source\repos\calculadoracs\calculadoracs\obj\Debug\net6.0\calculadoracs.csproj.CoreCompileInputs.cache
+C:\Users\davia\source\repos\calculadoracs\calculadoracs\obj\Debug\net6.0\calculadoracs.dll
+C:\Users\davia\source\repos\calculadoracs\calculadoracs\obj\Debug\net6.0\ref\calculadoracs.dll
+C:\Users\davia\source\repos\calculadoracs\calculadoracs\obj\Debug\net6.0\calculadoracs.pdb
+C:\Users\davia\source\repos\calculadoracs\calculadoracs\obj\Debug\net6.0\calculadoracs.genruntimeconfig.cache

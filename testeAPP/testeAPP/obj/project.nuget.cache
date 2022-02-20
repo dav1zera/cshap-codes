@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "EBldTt70rZfbxBQrmix9Z8PMbZVJacip8A2gtGq89BFsCGxFGVt35S8Cavpyi8shjRwQsBmkjZncCi8e7rZ1zw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\davia\\source\\repos\\testeAPP\\testeAPP\\testeAPP.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\davia\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.11\\microsoft.netcore.app.host.win-x64.5.0.11.nupkg.sha512",
+    "C:\\Users\\davia\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\davia\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\davia\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

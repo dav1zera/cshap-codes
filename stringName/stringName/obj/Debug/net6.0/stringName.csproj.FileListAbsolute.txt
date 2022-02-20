@@ -1,0 +1,15 @@
+C:\Users\davia\source\repos\stringName\stringName\bin\Debug\net6.0\stringName.exe
+C:\Users\davia\source\repos\stringName\stringName\bin\Debug\net6.0\stringName.deps.json
+C:\Users\davia\source\repos\stringName\stringName\bin\Debug\net6.0\stringName.runtimeconfig.json
+C:\Users\davia\source\repos\stringName\stringName\bin\Debug\net6.0\stringName.dll
+C:\Users\davia\source\repos\stringName\stringName\bin\Debug\net6.0\ref\stringName.dll
+C:\Users\davia\source\repos\stringName\stringName\bin\Debug\net6.0\stringName.pdb
+C:\Users\davia\source\repos\stringName\stringName\obj\Debug\net6.0\stringName.csproj.AssemblyReference.cache
+C:\Users\davia\source\repos\stringName\stringName\obj\Debug\net6.0\stringName.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\davia\source\repos\stringName\stringName\obj\Debug\net6.0\stringName.AssemblyInfoInputs.cache
+C:\Users\davia\source\repos\stringName\stringName\obj\Debug\net6.0\stringName.AssemblyInfo.cs
+C:\Users\davia\source\repos\stringName\stringName\obj\Debug\net6.0\stringName.csproj.CoreCompileInputs.cache
+C:\Users\davia\source\repos\stringName\stringName\obj\Debug\net6.0\stringName.dll
+C:\Users\davia\source\repos\stringName\stringName\obj\Debug\net6.0\ref\stringName.dll
+C:\Users\davia\source\repos\stringName\stringName\obj\Debug\net6.0\stringName.pdb
+C:\Users\davia\source\repos\stringName\stringName\obj\Debug\net6.0\stringName.genruntimeconfig.cache

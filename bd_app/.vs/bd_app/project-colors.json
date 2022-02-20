@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "36fc2924-8f6f-4d71-9896-9addb95a7823": {
+      "ProjectGuid": "36fc2924-8f6f-4d71-9896-9addb95a7823",
+      "DisplayName": "bd_app",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

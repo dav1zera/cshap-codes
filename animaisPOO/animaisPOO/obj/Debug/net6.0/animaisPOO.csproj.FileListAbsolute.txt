@@ -1,0 +1,15 @@
+C:\Users\davia\source\repos\animaisPOO\animaisPOO\bin\Debug\net6.0\animaisPOO.exe
+C:\Users\davia\source\repos\animaisPOO\animaisPOO\bin\Debug\net6.0\animaisPOO.deps.json
+C:\Users\davia\source\repos\animaisPOO\animaisPOO\bin\Debug\net6.0\animaisPOO.runtimeconfig.json
+C:\Users\davia\source\repos\animaisPOO\animaisPOO\bin\Debug\net6.0\animaisPOO.dll
+C:\Users\davia\source\repos\animaisPOO\animaisPOO\bin\Debug\net6.0\ref\animaisPOO.dll
+C:\Users\davia\source\repos\animaisPOO\animaisPOO\bin\Debug\net6.0\animaisPOO.pdb
+C:\Users\davia\source\repos\animaisPOO\animaisPOO\obj\Debug\net6.0\animaisPOO.csproj.AssemblyReference.cache
+C:\Users\davia\source\repos\animaisPOO\animaisPOO\obj\Debug\net6.0\animaisPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\davia\source\repos\animaisPOO\animaisPOO\obj\Debug\net6.0\animaisPOO.AssemblyInfoInputs.cache
+C:\Users\davia\source\repos\animaisPOO\animaisPOO\obj\Debug\net6.0\animaisPOO.AssemblyInfo.cs
+C:\Users\davia\source\repos\animaisPOO\animaisPOO\obj\Debug\net6.0\animaisPOO.csproj.CoreCompileInputs.cache
+C:\Users\davia\source\repos\animaisPOO\animaisPOO\obj\Debug\net6.0\animaisPOO.dll
+C:\Users\davia\source\repos\animaisPOO\animaisPOO\obj\Debug\net6.0\ref\animaisPOO.dll
+C:\Users\davia\source\repos\animaisPOO\animaisPOO\obj\Debug\net6.0\animaisPOO.pdb
+C:\Users\davia\source\repos\animaisPOO\animaisPOO\obj\Debug\net6.0\animaisPOO.genruntimeconfig.cache

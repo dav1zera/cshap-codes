@@ -1,0 +1,15 @@
+C:\Users\davia\source\repos\timerAlgoritmo\timerAlgoritmo\bin\Debug\net6.0\timerAlgoritmo.exe
+C:\Users\davia\source\repos\timerAlgoritmo\timerAlgoritmo\bin\Debug\net6.0\timerAlgoritmo.deps.json
+C:\Users\davia\source\repos\timerAlgoritmo\timerAlgoritmo\bin\Debug\net6.0\timerAlgoritmo.runtimeconfig.json
+C:\Users\davia\source\repos\timerAlgoritmo\timerAlgoritmo\bin\Debug\net6.0\timerAlgoritmo.dll
+C:\Users\davia\source\repos\timerAlgoritmo\timerAlgoritmo\bin\Debug\net6.0\ref\timerAlgoritmo.dll
+C:\Users\davia\source\repos\timerAlgoritmo\timerAlgoritmo\bin\Debug\net6.0\timerAlgoritmo.pdb
+C:\Users\davia\source\repos\timerAlgoritmo\timerAlgoritmo\obj\Debug\net6.0\timerAlgoritmo.csproj.AssemblyReference.cache
+C:\Users\davia\source\repos\timerAlgoritmo\timerAlgoritmo\obj\Debug\net6.0\timerAlgoritmo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\davia\source\repos\timerAlgoritmo\timerAlgoritmo\obj\Debug\net6.0\timerAlgoritmo.AssemblyInfoInputs.cache
+C:\Users\davia\source\repos\timerAlgoritmo\timerAlgoritmo\obj\Debug\net6.0\timerAlgoritmo.AssemblyInfo.cs
+C:\Users\davia\source\repos\timerAlgoritmo\timerAlgoritmo\obj\Debug\net6.0\timerAlgoritmo.csproj.CoreCompileInputs.cache
+C:\Users\davia\source\repos\timerAlgoritmo\timerAlgoritmo\obj\Debug\net6.0\timerAlgoritmo.dll
+C:\Users\davia\source\repos\timerAlgoritmo\timerAlgoritmo\obj\Debug\net6.0\ref\timerAlgoritmo.dll
+C:\Users\davia\source\repos\timerAlgoritmo\timerAlgoritmo\obj\Debug\net6.0\timerAlgoritmo.pdb
+C:\Users\davia\source\repos\timerAlgoritmo\timerAlgoritmo\obj\Debug\net6.0\timerAlgoritmo.genruntimeconfig.cache

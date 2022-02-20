@@ -1,0 +1,16 @@
+C:\Users\davia\source\repos\binary_tree\binary_tree\bin\Debug\net6.0\binary_tree.exe
+C:\Users\davia\source\repos\binary_tree\binary_tree\bin\Debug\net6.0\binary_tree.deps.json
+C:\Users\davia\source\repos\binary_tree\binary_tree\bin\Debug\net6.0\binary_tree.runtimeconfig.json
+C:\Users\davia\source\repos\binary_tree\binary_tree\bin\Debug\net6.0\binary_tree.dll
+C:\Users\davia\source\repos\binary_tree\binary_tree\bin\Debug\net6.0\ref\binary_tree.dll
+C:\Users\davia\source\repos\binary_tree\binary_tree\bin\Debug\net6.0\binary_tree.pdb
+C:\Users\davia\source\repos\binary_tree\binary_tree\obj\Debug\net6.0\binary_tree.GlobalUsings.g.cs
+C:\Users\davia\source\repos\binary_tree\binary_tree\obj\Debug\net6.0\binary_tree.csproj.AssemblyReference.cache
+C:\Users\davia\source\repos\binary_tree\binary_tree\obj\Debug\net6.0\binary_tree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\davia\source\repos\binary_tree\binary_tree\obj\Debug\net6.0\binary_tree.AssemblyInfoInputs.cache
+C:\Users\davia\source\repos\binary_tree\binary_tree\obj\Debug\net6.0\binary_tree.AssemblyInfo.cs
+C:\Users\davia\source\repos\binary_tree\binary_tree\obj\Debug\net6.0\binary_tree.csproj.CoreCompileInputs.cache
+C:\Users\davia\source\repos\binary_tree\binary_tree\obj\Debug\net6.0\binary_tree.dll
+C:\Users\davia\source\repos\binary_tree\binary_tree\obj\Debug\net6.0\ref\binary_tree.dll
+C:\Users\davia\source\repos\binary_tree\binary_tree\obj\Debug\net6.0\binary_tree.pdb
+C:\Users\davia\source\repos\binary_tree\binary_tree\obj\Debug\net6.0\binary_tree.genruntimeconfig.cache

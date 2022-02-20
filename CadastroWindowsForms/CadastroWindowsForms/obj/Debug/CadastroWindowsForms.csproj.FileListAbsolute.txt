@@ -1,0 +1,13 @@
+C:\Users\davia\source\repos\CadastroWindowsForms\CadastroWindowsForms\bin\Debug\CadastroWindowsForms.exe.config
+C:\Users\davia\source\repos\CadastroWindowsForms\CadastroWindowsForms\bin\Debug\CadastroWindowsForms.exe
+C:\Users\davia\source\repos\CadastroWindowsForms\CadastroWindowsForms\bin\Debug\CadastroWindowsForms.pdb
+C:\Users\davia\source\repos\CadastroWindowsForms\CadastroWindowsForms\obj\Debug\CadastroWindowsForms.csproj.AssemblyReference.cache
+C:\Users\davia\source\repos\CadastroWindowsForms\CadastroWindowsForms\obj\Debug\CadastroWindowsForms.csproj.SuggestedBindingRedirects.cache
+C:\Users\davia\source\repos\CadastroWindowsForms\CadastroWindowsForms\obj\Debug\CadastroWindowsForms.Properties.Resources.resources
+C:\Users\davia\source\repos\CadastroWindowsForms\CadastroWindowsForms\obj\Debug\CadastroWindowsForms.csproj.GenerateResource.cache
+C:\Users\davia\source\repos\CadastroWindowsForms\CadastroWindowsForms\obj\Debug\CadastroWindowsForms.csproj.CoreCompileInputs.cache
+C:\Users\davia\source\repos\CadastroWindowsForms\CadastroWindowsForms\obj\Debug\CadastroWindowsForms.exe
+C:\Users\davia\source\repos\CadastroWindowsForms\CadastroWindowsForms\obj\Debug\CadastroWindowsForms.pdb
+C:\Users\davia\source\repos\CadastroWindowsForms\CadastroWindowsForms\obj\Debug\WindowsFormsCadastro.CadastrarInstrutor.resources
+C:\Users\davia\source\repos\CadastroWindowsForms\CadastroWindowsForms\obj\Debug\CadastroWindowsForms.CadastrarOferta.resources
+C:\Users\davia\source\repos\CadastroWindowsForms\CadastroWindowsForms\obj\Debug\CadastroWindowsForms.Menu.resources

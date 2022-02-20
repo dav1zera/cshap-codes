@@ -1,0 +1,11 @@
+C:\Users\davia\source\repos\FormCadastrarOferta\FormCadastrarOferta\bin\Debug\FormCadastrarOferta.exe.config
+C:\Users\davia\source\repos\FormCadastrarOferta\FormCadastrarOferta\bin\Debug\FormCadastrarOferta.exe
+C:\Users\davia\source\repos\FormCadastrarOferta\FormCadastrarOferta\bin\Debug\FormCadastrarOferta.pdb
+C:\Users\davia\source\repos\FormCadastrarOferta\FormCadastrarOferta\obj\Debug\FormCadastrarOferta.csproj.AssemblyReference.cache
+C:\Users\davia\source\repos\FormCadastrarOferta\FormCadastrarOferta\obj\Debug\FormCadastrarOferta.csproj.SuggestedBindingRedirects.cache
+C:\Users\davia\source\repos\FormCadastrarOferta\FormCadastrarOferta\obj\Debug\FormCadastrarOferta.Form1.resources
+C:\Users\davia\source\repos\FormCadastrarOferta\FormCadastrarOferta\obj\Debug\FormCadastrarOferta.Properties.Resources.resources
+C:\Users\davia\source\repos\FormCadastrarOferta\FormCadastrarOferta\obj\Debug\FormCadastrarOferta.csproj.GenerateResource.cache
+C:\Users\davia\source\repos\FormCadastrarOferta\FormCadastrarOferta\obj\Debug\FormCadastrarOferta.csproj.CoreCompileInputs.cache
+C:\Users\davia\source\repos\FormCadastrarOferta\FormCadastrarOferta\obj\Debug\FormCadastrarOferta.exe
+C:\Users\davia\source\repos\FormCadastrarOferta\FormCadastrarOferta\obj\Debug\FormCadastrarOferta.pdb

@@ -1,0 +1,16 @@
+C:\Users\davia\source\repos\bubbleShort\bubbleShort\bin\Debug\net6.0\bubbleShort.exe
+C:\Users\davia\source\repos\bubbleShort\bubbleShort\bin\Debug\net6.0\bubbleShort.deps.json
+C:\Users\davia\source\repos\bubbleShort\bubbleShort\bin\Debug\net6.0\bubbleShort.runtimeconfig.json
+C:\Users\davia\source\repos\bubbleShort\bubbleShort\bin\Debug\net6.0\bubbleShort.dll
+C:\Users\davia\source\repos\bubbleShort\bubbleShort\bin\Debug\net6.0\bubbleShort.pdb
+C:\Users\davia\source\repos\bubbleShort\bubbleShort\obj\Debug\net6.0\bubbleShort.csproj.AssemblyReference.cache
+C:\Users\davia\source\repos\bubbleShort\bubbleShort\obj\Debug\net6.0\bubbleShort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\davia\source\repos\bubbleShort\bubbleShort\obj\Debug\net6.0\bubbleShort.AssemblyInfoInputs.cache
+C:\Users\davia\source\repos\bubbleShort\bubbleShort\obj\Debug\net6.0\bubbleShort.AssemblyInfo.cs
+C:\Users\davia\source\repos\bubbleShort\bubbleShort\obj\Debug\net6.0\bubbleShort.ImplicitNamespaceImports.cs
+C:\Users\davia\source\repos\bubbleShort\bubbleShort\obj\Debug\net6.0\bubbleShort.csproj.CoreCompileInputs.cache
+C:\Users\davia\source\repos\bubbleShort\bubbleShort\obj\Debug\net6.0\bubbleShort.dll
+C:\Users\davia\source\repos\bubbleShort\bubbleShort\obj\Debug\net6.0\ref\bubbleShort.dll
+C:\Users\davia\source\repos\bubbleShort\bubbleShort\obj\Debug\net6.0\bubbleShort.pdb
+C:\Users\davia\source\repos\bubbleShort\bubbleShort\obj\Debug\net6.0\bubbleShort.genruntimeconfig.cache
+C:\Users\davia\source\repos\bubbleShort\bubbleShort\obj\Debug\net6.0\refint\bubbleShort.dll

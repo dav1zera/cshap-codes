@@ -1,0 +1,15 @@
+C:\Users\davia\source\repos\timerBuildArray\timerBuildArray\bin\Debug\net6.0\timerBuildArray.exe
+C:\Users\davia\source\repos\timerBuildArray\timerBuildArray\bin\Debug\net6.0\timerBuildArray.deps.json
+C:\Users\davia\source\repos\timerBuildArray\timerBuildArray\bin\Debug\net6.0\timerBuildArray.runtimeconfig.json
+C:\Users\davia\source\repos\timerBuildArray\timerBuildArray\bin\Debug\net6.0\timerBuildArray.dll
+C:\Users\davia\source\repos\timerBuildArray\timerBuildArray\bin\Debug\net6.0\ref\timerBuildArray.dll
+C:\Users\davia\source\repos\timerBuildArray\timerBuildArray\bin\Debug\net6.0\timerBuildArray.pdb
+C:\Users\davia\source\repos\timerBuildArray\timerBuildArray\obj\Debug\net6.0\timerBuildArray.csproj.AssemblyReference.cache
+C:\Users\davia\source\repos\timerBuildArray\timerBuildArray\obj\Debug\net6.0\timerBuildArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\davia\source\repos\timerBuildArray\timerBuildArray\obj\Debug\net6.0\timerBuildArray.AssemblyInfoInputs.cache
+C:\Users\davia\source\repos\timerBuildArray\timerBuildArray\obj\Debug\net6.0\timerBuildArray.AssemblyInfo.cs
+C:\Users\davia\source\repos\timerBuildArray\timerBuildArray\obj\Debug\net6.0\timerBuildArray.csproj.CoreCompileInputs.cache
+C:\Users\davia\source\repos\timerBuildArray\timerBuildArray\obj\Debug\net6.0\timerBuildArray.dll
+C:\Users\davia\source\repos\timerBuildArray\timerBuildArray\obj\Debug\net6.0\ref\timerBuildArray.dll
+C:\Users\davia\source\repos\timerBuildArray\timerBuildArray\obj\Debug\net6.0\timerBuildArray.pdb
+C:\Users\davia\source\repos\timerBuildArray\timerBuildArray\obj\Debug\net6.0\timerBuildArray.genruntimeconfig.cache

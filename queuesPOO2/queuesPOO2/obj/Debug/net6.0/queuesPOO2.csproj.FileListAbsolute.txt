@@ -1,0 +1,15 @@
+C:\Users\davia\source\repos\queuesPOO2\queuesPOO2\bin\Debug\net6.0\queuesPOO2.exe
+C:\Users\davia\source\repos\queuesPOO2\queuesPOO2\bin\Debug\net6.0\queuesPOO2.deps.json
+C:\Users\davia\source\repos\queuesPOO2\queuesPOO2\bin\Debug\net6.0\queuesPOO2.runtimeconfig.json
+C:\Users\davia\source\repos\queuesPOO2\queuesPOO2\bin\Debug\net6.0\queuesPOO2.dll
+C:\Users\davia\source\repos\queuesPOO2\queuesPOO2\bin\Debug\net6.0\ref\queuesPOO2.dll
+C:\Users\davia\source\repos\queuesPOO2\queuesPOO2\bin\Debug\net6.0\queuesPOO2.pdb
+C:\Users\davia\source\repos\queuesPOO2\queuesPOO2\obj\Debug\net6.0\queuesPOO2.csproj.AssemblyReference.cache
+C:\Users\davia\source\repos\queuesPOO2\queuesPOO2\obj\Debug\net6.0\queuesPOO2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\davia\source\repos\queuesPOO2\queuesPOO2\obj\Debug\net6.0\queuesPOO2.AssemblyInfoInputs.cache
+C:\Users\davia\source\repos\queuesPOO2\queuesPOO2\obj\Debug\net6.0\queuesPOO2.AssemblyInfo.cs
+C:\Users\davia\source\repos\queuesPOO2\queuesPOO2\obj\Debug\net6.0\queuesPOO2.csproj.CoreCompileInputs.cache
+C:\Users\davia\source\repos\queuesPOO2\queuesPOO2\obj\Debug\net6.0\queuesPOO2.dll
+C:\Users\davia\source\repos\queuesPOO2\queuesPOO2\obj\Debug\net6.0\ref\queuesPOO2.dll
+C:\Users\davia\source\repos\queuesPOO2\queuesPOO2\obj\Debug\net6.0\queuesPOO2.pdb
+C:\Users\davia\source\repos\queuesPOO2\queuesPOO2\obj\Debug\net6.0\queuesPOO2.genruntimeconfig.cache

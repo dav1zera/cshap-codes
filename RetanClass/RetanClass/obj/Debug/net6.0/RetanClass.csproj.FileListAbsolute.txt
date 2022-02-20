@@ -1,0 +1,16 @@
+C:\Users\davia\source\repos\RetanClass\RetanClass\bin\Debug\net6.0\RetanClass.exe
+C:\Users\davia\source\repos\RetanClass\RetanClass\bin\Debug\net6.0\RetanClass.deps.json
+C:\Users\davia\source\repos\RetanClass\RetanClass\bin\Debug\net6.0\RetanClass.runtimeconfig.json
+C:\Users\davia\source\repos\RetanClass\RetanClass\bin\Debug\net6.0\RetanClass.dll
+C:\Users\davia\source\repos\RetanClass\RetanClass\bin\Debug\net6.0\ref\RetanClass.dll
+C:\Users\davia\source\repos\RetanClass\RetanClass\bin\Debug\net6.0\RetanClass.pdb
+C:\Users\davia\source\repos\RetanClass\RetanClass\obj\Debug\net6.0\RetanClass.csproj.AssemblyReference.cache
+C:\Users\davia\source\repos\RetanClass\RetanClass\obj\Debug\net6.0\RetanClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\davia\source\repos\RetanClass\RetanClass\obj\Debug\net6.0\RetanClass.AssemblyInfoInputs.cache
+C:\Users\davia\source\repos\RetanClass\RetanClass\obj\Debug\net6.0\RetanClass.AssemblyInfo.cs
+C:\Users\davia\source\repos\RetanClass\RetanClass\obj\Debug\net6.0\RetanClass.ImplicitNamespaceImports.cs
+C:\Users\davia\source\repos\RetanClass\RetanClass\obj\Debug\net6.0\RetanClass.csproj.CoreCompileInputs.cache
+C:\Users\davia\source\repos\RetanClass\RetanClass\obj\Debug\net6.0\RetanClass.dll
+C:\Users\davia\source\repos\RetanClass\RetanClass\obj\Debug\net6.0\ref\RetanClass.dll
+C:\Users\davia\source\repos\RetanClass\RetanClass\obj\Debug\net6.0\RetanClass.pdb
+C:\Users\davia\source\repos\RetanClass\RetanClass\obj\Debug\net6.0\RetanClass.genruntimeconfig.cache

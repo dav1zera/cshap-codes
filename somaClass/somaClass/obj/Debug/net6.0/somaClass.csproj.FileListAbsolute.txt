@@ -1,0 +1,15 @@
+C:\Users\davia\source\repos\somaClass\somaClass\bin\Debug\net6.0\somaClass.exe
+C:\Users\davia\source\repos\somaClass\somaClass\bin\Debug\net6.0\somaClass.deps.json
+C:\Users\davia\source\repos\somaClass\somaClass\bin\Debug\net6.0\somaClass.runtimeconfig.json
+C:\Users\davia\source\repos\somaClass\somaClass\bin\Debug\net6.0\somaClass.dll
+C:\Users\davia\source\repos\somaClass\somaClass\bin\Debug\net6.0\ref\somaClass.dll
+C:\Users\davia\source\repos\somaClass\somaClass\bin\Debug\net6.0\somaClass.pdb
+C:\Users\davia\source\repos\somaClass\somaClass\obj\Debug\net6.0\somaClass.csproj.AssemblyReference.cache
+C:\Users\davia\source\repos\somaClass\somaClass\obj\Debug\net6.0\somaClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\davia\source\repos\somaClass\somaClass\obj\Debug\net6.0\somaClass.AssemblyInfoInputs.cache
+C:\Users\davia\source\repos\somaClass\somaClass\obj\Debug\net6.0\somaClass.AssemblyInfo.cs
+C:\Users\davia\source\repos\somaClass\somaClass\obj\Debug\net6.0\somaClass.csproj.CoreCompileInputs.cache
+C:\Users\davia\source\repos\somaClass\somaClass\obj\Debug\net6.0\somaClass.dll
+C:\Users\davia\source\repos\somaClass\somaClass\obj\Debug\net6.0\ref\somaClass.dll
+C:\Users\davia\source\repos\somaClass\somaClass\obj\Debug\net6.0\somaClass.pdb
+C:\Users\davia\source\repos\somaClass\somaClass\obj\Debug\net6.0\somaClass.genruntimeconfig.cache

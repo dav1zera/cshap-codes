@@ -1,0 +1,30 @@
+C:\Users\ANACAROLINELEALPAGAN\source\repos\Jogo Pedra Papel e Tesoura\bin\Debug\net5.0-windows\Jogo Pedra Papel e Tesoura.exe
+C:\Users\ANACAROLINELEALPAGAN\source\repos\Jogo Pedra Papel e Tesoura\bin\Debug\net5.0-windows\Jogo Pedra Papel e Tesoura.deps.json
+C:\Users\ANACAROLINELEALPAGAN\source\repos\Jogo Pedra Papel e Tesoura\bin\Debug\net5.0-windows\Jogo Pedra Papel e Tesoura.runtimeconfig.json
+C:\Users\ANACAROLINELEALPAGAN\source\repos\Jogo Pedra Papel e Tesoura\bin\Debug\net5.0-windows\Jogo Pedra Papel e Tesoura.runtimeconfig.dev.json
+C:\Users\ANACAROLINELEALPAGAN\source\repos\Jogo Pedra Papel e Tesoura\bin\Debug\net5.0-windows\Jogo Pedra Papel e Tesoura.dll
+C:\Users\ANACAROLINELEALPAGAN\source\repos\Jogo Pedra Papel e Tesoura\bin\Debug\net5.0-windows\ref\Jogo Pedra Papel e Tesoura.dll
+C:\Users\ANACAROLINELEALPAGAN\source\repos\Jogo Pedra Papel e Tesoura\bin\Debug\net5.0-windows\Jogo Pedra Papel e Tesoura.pdb
+C:\Users\ANACAROLINELEALPAGAN\source\repos\Jogo Pedra Papel e Tesoura\obj\Debug\net5.0-windows\Jogo Pedra Papel e Tesoura.csproj.AssemblyReference.cache
+C:\Users\ANACAROLINELEALPAGAN\source\repos\Jogo Pedra Papel e Tesoura\obj\Debug\net5.0-windows\Jogo_Pedra_Papel_e_Tesoura.Form1.resources
+C:\Users\ANACAROLINELEALPAGAN\source\repos\Jogo Pedra Papel e Tesoura\obj\Debug\net5.0-windows\Jogo Pedra Papel e Tesoura.csproj.GenerateResource.cache
+C:\Users\ANACAROLINELEALPAGAN\source\repos\Jogo Pedra Papel e Tesoura\obj\Debug\net5.0-windows\Jogo Pedra Papel e Tesoura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ANACAROLINELEALPAGAN\source\repos\Jogo Pedra Papel e Tesoura\obj\Debug\net5.0-windows\Jogo Pedra Papel e Tesoura.AssemblyInfoInputs.cache
+C:\Users\ANACAROLINELEALPAGAN\source\repos\Jogo Pedra Papel e Tesoura\obj\Debug\net5.0-windows\Jogo Pedra Papel e Tesoura.AssemblyInfo.cs
+C:\Users\ANACAROLINELEALPAGAN\source\repos\Jogo Pedra Papel e Tesoura\obj\Debug\net5.0-windows\Jogo Pedra Papel e Tesoura.csproj.CoreCompileInputs.cache
+C:\Users\ANACAROLINELEALPAGAN\source\repos\Jogo Pedra Papel e Tesoura\obj\Debug\net5.0-windows\Jogo Pedra Papel e Tesoura.dll
+C:\Users\ANACAROLINELEALPAGAN\source\repos\Jogo Pedra Papel e Tesoura\obj\Debug\net5.0-windows\ref\Jogo Pedra Papel e Tesoura.dll
+C:\Users\ANACAROLINELEALPAGAN\source\repos\Jogo Pedra Papel e Tesoura\obj\Debug\net5.0-windows\Jogo Pedra Papel e Tesoura.pdb
+C:\Users\ANACAROLINELEALPAGAN\source\repos\Jogo Pedra Papel e Tesoura\obj\Debug\net5.0-windows\Jogo Pedra Papel e Tesoura.genruntimeconfig.cache
+C:\Users\ANACAROLINELEALPAGAN\source\repos\Jogo Pedra Papel e Tesoura\obj\Debug\net5.0-windows\Jogo_Pedra_Papel_e_Tesoura.Properties.Resources.resources
+C:\Users\davia\source\repos\Jogo Pedra Papel e Tesoura\obj\Debug\net5.0-windows\Jogo Pedra Papel e Tesoura.csproj.AssemblyReference.cache
+C:\Users\davia\source\repos\Jogo Pedra Papel e Tesoura\obj\Debug\net5.0-windows\Jogo_Pedra_Papel_e_Tesoura.Form1.resources
+C:\Users\davia\source\repos\Jogo Pedra Papel e Tesoura\obj\Debug\net5.0-windows\Jogo_Pedra_Papel_e_Tesoura.Properties.Resources.resources
+C:\Users\davia\source\repos\Jogo Pedra Papel e Tesoura\obj\Debug\net5.0-windows\Jogo Pedra Papel e Tesoura.csproj.GenerateResource.cache
+C:\Users\davia\source\repos\Jogo Pedra Papel e Tesoura\obj\Debug\net5.0-windows\Jogo Pedra Papel e Tesoura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\davia\source\repos\Jogo Pedra Papel e Tesoura\obj\Debug\net5.0-windows\Jogo Pedra Papel e Tesoura.AssemblyInfoInputs.cache
+C:\Users\davia\source\repos\Jogo Pedra Papel e Tesoura\obj\Debug\net5.0-windows\Jogo Pedra Papel e Tesoura.AssemblyInfo.cs
+C:\Users\davia\source\repos\Jogo Pedra Papel e Tesoura\obj\Debug\net5.0-windows\Jogo Pedra Papel e Tesoura.csproj.CoreCompileInputs.cache
+C:\Users\davia\source\repos\Jogo Pedra Papel e Tesoura\obj\Debug\net5.0-windows\Jogo Pedra Papel e Tesoura.dll
+C:\Users\davia\source\repos\Jogo Pedra Papel e Tesoura\obj\Debug\net5.0-windows\ref\Jogo Pedra Papel e Tesoura.dll
+C:\Users\davia\source\repos\Jogo Pedra Papel e Tesoura\obj\Debug\net5.0-windows\Jogo Pedra Papel e Tesoura.pdb

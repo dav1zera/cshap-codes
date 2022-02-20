@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ad329f21-4307-42fe-b2bb-1d6bc50870d2": {
+      "ProjectGuid": "ad329f21-4307-42fe-b2bb-1d6bc50870d2",
+      "DisplayName": "binary_tree",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

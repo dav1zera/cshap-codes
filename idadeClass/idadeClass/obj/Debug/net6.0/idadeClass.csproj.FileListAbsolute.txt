@@ -1,0 +1,15 @@
+C:\Users\davia\source\repos\idadeClass\idadeClass\bin\Debug\net6.0\idadeClass.exe
+C:\Users\davia\source\repos\idadeClass\idadeClass\bin\Debug\net6.0\idadeClass.deps.json
+C:\Users\davia\source\repos\idadeClass\idadeClass\bin\Debug\net6.0\idadeClass.runtimeconfig.json
+C:\Users\davia\source\repos\idadeClass\idadeClass\bin\Debug\net6.0\idadeClass.dll
+C:\Users\davia\source\repos\idadeClass\idadeClass\bin\Debug\net6.0\ref\idadeClass.dll
+C:\Users\davia\source\repos\idadeClass\idadeClass\bin\Debug\net6.0\idadeClass.pdb
+C:\Users\davia\source\repos\idadeClass\idadeClass\obj\Debug\net6.0\idadeClass.csproj.AssemblyReference.cache
+C:\Users\davia\source\repos\idadeClass\idadeClass\obj\Debug\net6.0\idadeClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\davia\source\repos\idadeClass\idadeClass\obj\Debug\net6.0\idadeClass.AssemblyInfoInputs.cache
+C:\Users\davia\source\repos\idadeClass\idadeClass\obj\Debug\net6.0\idadeClass.AssemblyInfo.cs
+C:\Users\davia\source\repos\idadeClass\idadeClass\obj\Debug\net6.0\idadeClass.csproj.CoreCompileInputs.cache
+C:\Users\davia\source\repos\idadeClass\idadeClass\obj\Debug\net6.0\idadeClass.dll
+C:\Users\davia\source\repos\idadeClass\idadeClass\obj\Debug\net6.0\ref\idadeClass.dll
+C:\Users\davia\source\repos\idadeClass\idadeClass\obj\Debug\net6.0\idadeClass.pdb
+C:\Users\davia\source\repos\idadeClass\idadeClass\obj\Debug\net6.0\idadeClass.genruntimeconfig.cache

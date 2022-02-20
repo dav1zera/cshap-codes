@@ -1,0 +1,15 @@
+C:\Users\davia\source\repos\notasalunos\notasalunos\bin\Debug\net6.0\notasalunos.exe
+C:\Users\davia\source\repos\notasalunos\notasalunos\bin\Debug\net6.0\notasalunos.deps.json
+C:\Users\davia\source\repos\notasalunos\notasalunos\bin\Debug\net6.0\notasalunos.runtimeconfig.json
+C:\Users\davia\source\repos\notasalunos\notasalunos\bin\Debug\net6.0\notasalunos.dll
+C:\Users\davia\source\repos\notasalunos\notasalunos\bin\Debug\net6.0\ref\notasalunos.dll
+C:\Users\davia\source\repos\notasalunos\notasalunos\bin\Debug\net6.0\notasalunos.pdb
+C:\Users\davia\source\repos\notasalunos\notasalunos\obj\Debug\net6.0\notasalunos.csproj.AssemblyReference.cache
+C:\Users\davia\source\repos\notasalunos\notasalunos\obj\Debug\net6.0\notasalunos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\davia\source\repos\notasalunos\notasalunos\obj\Debug\net6.0\notasalunos.AssemblyInfoInputs.cache
+C:\Users\davia\source\repos\notasalunos\notasalunos\obj\Debug\net6.0\notasalunos.AssemblyInfo.cs
+C:\Users\davia\source\repos\notasalunos\notasalunos\obj\Debug\net6.0\notasalunos.csproj.CoreCompileInputs.cache
+C:\Users\davia\source\repos\notasalunos\notasalunos\obj\Debug\net6.0\notasalunos.dll
+C:\Users\davia\source\repos\notasalunos\notasalunos\obj\Debug\net6.0\ref\notasalunos.dll
+C:\Users\davia\source\repos\notasalunos\notasalunos\obj\Debug\net6.0\notasalunos.pdb
+C:\Users\davia\source\repos\notasalunos\notasalunos\obj\Debug\net6.0\notasalunos.genruntimeconfig.cache
